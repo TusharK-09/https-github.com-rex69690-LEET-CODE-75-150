@@ -6,7 +6,7 @@ class Solution {
             int index = -1;
             for (int j = 0; j < nums2.length; j++) {
                 if (nums2[j] == nums1[i]) {
-                    index = j; // Found nums1[i] in nums2
+                    index = j; 
                     break;
                 }
             }

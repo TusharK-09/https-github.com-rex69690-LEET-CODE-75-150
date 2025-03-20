@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0496-next-greater-element-i) |
 | [0948-sort-an-array](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0948-sort-an-array) |
 ## Math
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |

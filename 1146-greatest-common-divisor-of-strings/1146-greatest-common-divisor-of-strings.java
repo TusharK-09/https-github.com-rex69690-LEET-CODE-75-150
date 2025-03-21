@@ -9,9 +9,9 @@ class Solution {
 
         int len = gcd(n,m);
 
-        String answer = str1.substring(0,len);
+        return str1.substring(0,len);
         
-        return answer;
+        
     }
 
       public int gcd (int num1 , int num2){

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0048-rotate-image) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0020-valid-parentheses) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |

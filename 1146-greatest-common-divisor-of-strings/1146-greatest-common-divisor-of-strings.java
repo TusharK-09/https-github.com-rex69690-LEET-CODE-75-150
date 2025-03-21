@@ -4,10 +4,9 @@ class Solution {
        if(!(str1+str2).equals(str2+str1)){
         return "";
        }
-        int n = str1.length() ;
-        int m = str2.length();
+        
 
-        int len = gcd(n,m);
+        int len = gcd(str1.length(),str2.length());
 
         return str1.substring(0,len);
         

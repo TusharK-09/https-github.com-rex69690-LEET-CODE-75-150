@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0496-next-greater-element-i) |
 | [0948-sort-an-array](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0948-sort-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Math
 |  |
 | ------- |

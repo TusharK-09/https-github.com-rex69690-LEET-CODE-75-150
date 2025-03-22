@@ -12,13 +12,8 @@ class Solution {
             }
         }
 
-        if(count >= n)
-        {
-           return true;
-         }
-
-         else {
-            return false;
-         }
+        if(count >= n) return true;
+        else return false;
+      
     }
 }

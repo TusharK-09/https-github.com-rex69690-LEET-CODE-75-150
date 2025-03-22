@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0605-can-place-flowers) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Matrix
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/rex69690/https-github.com-rex69690-LEET-CODE-75-150/tree/master/1894-merge-strings-alternately) |
 ## Greedy

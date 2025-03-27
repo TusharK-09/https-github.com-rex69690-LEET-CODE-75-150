@@ -2,40 +2,37 @@ import java.util.*;
 
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
-        Stack<Integer> p = new Stack<>(); // Stack for positive asteroids
-        Stack<Integer> n = new Stack<>(); // Stack for remaining negative asteroids
+        Stack<Integer> p = new Stack<>();
+        Stack<Integer> n = new Stack<>();
 
-        for (int asteroid : asteroids) {
-            if (asteroid > 0) {
-                p.push(asteroid); 
+        for (int i = 0; i < asteroids.length; i++) {
+            if (asteroids[i] > 0) {
+                p.push(asteroids[i]);
             } else {
-                
                 while (!p.isEmpty() && p.peek() > 0) {
-                    if (p.peek() > -asteroid) { 
-                        asteroid = 0;
+                    if (p.peek() > -asteroids[i]) {
+                        asteroids[i] = 0;
                         break;
-                    } else if (p.peek() == -asteroid) { 
+                    } else if (p.peek() == -asteroids[i]) {
                         p.pop();
-                        asteroid = 0;
+                        asteroids[i] = 0;
                         break;
-                    } else { 
+                    } else {
                         p.pop();
                     }
                 }
-                if (asteroid != 0) {
-                    n.push(asteroid); 
+                if (asteroids[i] != 0) {
+                    n.push(asteroids[i]);
                 }
             }
         }
 
-        // Merge stacks into a single result
         List<Integer> resultList = new ArrayList<>(n);
         resultList.addAll(p);
 
-        // Convert List to int[]
         int[] result = new int[resultList.size()];
-        for (int i = 0; i < result.length; i++) {
-            result[i] = resultList.get(i);
+        for (int j = 0; j < result.length; j++) {
+            result[j] = resultList.get(j);
         }
 
         return result;

@@ -13,7 +13,7 @@ class Solution {
                     if (p.peek() + asteroids[i] > 0) {
                         asteroids[i] = 0;
                         break;
-                    } else if (p.peek() == -asteroids[i]) {
+                    } else if (p.peek() + asteroids[i] == 0) {
                         p.pop();
                         asteroids[i] = 0;
                         break;

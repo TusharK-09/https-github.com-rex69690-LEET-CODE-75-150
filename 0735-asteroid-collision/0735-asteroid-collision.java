@@ -10,7 +10,7 @@ class Solution {
                 p.push(asteroids[i]);
             } else {
                 while (!p.isEmpty() && p.peek() > 0) {
-                    if (p.peek() > -asteroids[i]) {
+                    if (p.peek() + asteroids[i] > 0) {
                         asteroids[i] = 0;
                         break;
                     } else if (p.peek() == -asteroids[i]) {

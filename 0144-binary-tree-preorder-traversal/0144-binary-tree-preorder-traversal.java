@@ -11,7 +11,8 @@ class Solution {
         st.push(root);
         
         while (!st.isEmpty()) {
-            TreeNode current = st.pop();
+            TreeNode current = st.peek();
+            st.pop();
             preorder.add(current.val);
             
            
